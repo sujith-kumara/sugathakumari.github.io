@@ -1,0 +1,26 @@
+#img.caption
+{
+ width:400px; 
+}
+#image
+{
+  max-width:100%;
+  height:auto;
+  display:block;
+}
+#img-caption
+{
+  font-size:25px;
+}
+#tribute-info
+{
+  font-size:20px;
+}
+#awards
+{
+  font-size:20px;
+}
+#a
+{
+  font-size:20px;
+}
